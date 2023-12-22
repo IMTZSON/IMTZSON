@@ -13,7 +13,7 @@ I'm Nicolo, a Software Engineer.
 </div><br>
 
  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
 </div><br>
 <div id="header" ><br>👨‍💻 About Me :</div><br>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
