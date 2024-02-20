@@ -2,7 +2,7 @@
 <div id="header" align="center">
 Hi 👋
 
-I'm Nicolo, a Software Engineer.
+I'm IMTZ, a Software Engineer.
 </div><br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
