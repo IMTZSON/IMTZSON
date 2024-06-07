@@ -2,7 +2,7 @@
 <div id="header" align="center">
 Hi 👋
 
-I'm IMTZ, a Software Developer.
+I'm IMTZ, a Mobile Software Developer.
 </div><br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
