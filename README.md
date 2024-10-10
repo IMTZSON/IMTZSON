@@ -22,7 +22,7 @@ I'm Nicolo Cauli, a FullStack Software Developer.
 
 - :zap: In my free time, I solve problems on GitHub and read tech articles.
 
-- :&#x1F4BB: Contributor to the creation of the ServeNow app
+- 👨🏻‍💻Contributor to the creation of the ServeNow app
 
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-@IMTZ__-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <div id="header" ><br>✍️ Languages</div><br>
