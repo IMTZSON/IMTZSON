@@ -2,7 +2,7 @@
 <div id="header" align="center">
 Hi 👋
 
-I'm Nicolo Cauli, a FullStack Software Developer.
+I'm Nicolo, a FullStack Software Developer.
 </div><br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
