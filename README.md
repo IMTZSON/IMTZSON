@@ -1,50 +1,69 @@
-<!-- BLOG-POST-LIST:START -->
-<div id="header" align="center">
-Hi 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Nicolò Cauli — IMTZ. Founder at EveryApp and Senior Full Stack Developer. From idea to App Store." width="100%" />
+</p>
 
-I'm Nicolo, a FullStack Software Developer.
-</div><br>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div> 
-<div id="header" align="center">
-  <img src="https://img.shields.io/badge/@IMTZ__-blue?logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/@IMTZ__-black?logo=X&logoColor=blue" url="https://twitter.com/IMTZ__"/>
-</div><br>
+<p align="center">
+  <a href="https://imtzson.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-38bdf8?style=for-the-badge&amp;logo=safari&amp;logoColor=090e1c" alt="Visit my portfolio" /></a>
+  <a href="https://www.everyapp.shop/"><img src="https://img.shields.io/badge/EVERYAPP-818cf8?style=for-the-badge&amp;logoColor=white" alt="Discover EveryApp" /></a>
+  <a href="https://www.linkedin.com/in/imtz-nicol%C3%B2-cauli"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:cauli.nicolo2003@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-c084fc?style=for-the-badge&amp;logo=gmail&amp;logoColor=090e1c" alt="Send me an email" /></a>
+</p>
 
- <div align="center">
-<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
-</div><br>
-<div id="header" ><br>👨‍💻 About Me :</div><br>
-- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
+<p align="center">
+  <b>Mobile experiences. Solid backends. Products people use.</b><br />
+  <sub>Based in Sardinia, Italy · Building with EveryApp</sub>
+</p>
 
-- :seedling: Exploring Technical Content Writing.
+---
 
-- :zap: In my free time, I solve problems on GitHub and read tech articles.
+### The developer behind the handle
 
-- 👨🏻‍💻Contributor to the creation of the ServeNow app
+I'm **Nicolò**, also known as **IMTZ** — Founder & CEO of [EveryApp](https://www.everyapp.shop/) and Senior Full Stack Developer.
 
-- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-@IMTZ__-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-<div id="header" ><br>✍️ Languages</div><br>
+I build digital products from the first sketch to release: interfaces, backend services and mobile apps. At EveryApp, I lead the team bringing those pieces together.
 
-<div id="header">
-  <img src="https://img.shields.io/badge/HTML-orange?logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-purple?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyThon-darkblue?logo=Python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Swift-white?logo=Swift&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-violet?logo=php&logoColor=white"/>
-</div><br>
+- **Mobile first:** React Native, Ionic and Swift.
+- **Across the stack:** web interfaces, Node.js backends and application integrations.
+- **Through to launch:** UI/UX, development and App Store / Play Store publishing.
 
-<div id="header" ><br>🛠 Tech Stack and Tools</div><br> 
-<table>
-<tr><td align="center">End</td><td align="center">Stack</td></tr>
-<tr><td><img src="https://img.shields.io/badge/Frontend-black?logo=&logoColor="/></td><td><img src="https://img.shields.io/badge/Angular-red?logo=Angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-blue?logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Ionic-lightblue?logo=Ionic&logoColor=darkblue"/> <img src="https://img.shields.io/badge/Ant_Design-darkblue?logo=AntDesign&logoColor=white"/> <img src="https://img.shields.io/badge/Less-0789A9?logo=Less&logoColor=white"/></td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/Backend-black?logo=&logoColor="/></td><td align="center"><img src="https://img.shields.io/badge/Node-white?logo=Node.js&logoColor=darkgreen"/> <img src="https://img.shields.io/badge/Egg.js-darkgreen?logo=&logoColor=green"/> <img src="https://img.shields.io/badge/mongoDB-white?logo=mongoDB&logoColor=darkgreen"/></td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/Devops-black?logo=&logoColor="/></td><td align="center"><img src="https://img.shields.io/badge/GitHub_Actions-black?logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-white?logo=Docker&logoColor=blue"/></td></tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/IDE-black?logo=&logoColor="/></td><td align="center"><img src="https://img.shields.io/badge/VS_Code-blue?logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-grey?logo=PyCharm&logoColor=white"/></td> </tr>
-<tr><td align="center"><img src="https://img.shields.io/badge/Ohter-black?logo=&logoColor="/></td><td align="center"><img src="https://img.shields.io/badge/Git-black?logo=Git&logoColor=orange"/> <img src="https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white"/></td></tr>
-</table>
-<!-- BLOG-POST-LIST:END -->
+### Selected work
+
+Four apps from my portfolio — built to be used.
+
+| Product | What it does | Explore |
+| :--- | :--- | :--- |
+| **EveryMusic** | My own music app: smart search, playlists, background playback and in-app subscriptions. | [App Store ↗](https://apps.apple.com/it/app/everymusic/id6759969055) |
+| **ServeNow** | An app for Serve the City, connecting volunteers with local projects and communities. | [App Store ↗](https://apps.apple.com/it/app/servenow-volunteering/id1535019384) |
+| **Radio Visionair** | Live radio, program schedules and background audio in a dedicated mobile experience. | [App Store ↗](https://apps.apple.com/it/app/radio-visionair/id6748015567) |
+| **Museo di Teti** | A mobile app for the Museo di Teti, bringing local cultural heritage to visitors. | [App Store ↗](https://apps.apple.com/it/app/museo-di-teti/id6744748356) |
+
+[See the projects in detail →](https://imtzson.github.io/#projects)
+
+### My toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-101827?style=flat-square&amp;logo=typescript&amp;logoColor=38bdf8" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_Native-101827?style=flat-square&amp;logo=react&amp;logoColor=38bdf8" alt="React Native" />
+  <img src="https://img.shields.io/badge/Ionic-101827?style=flat-square&amp;logo=ionic&amp;logoColor=818cf8" alt="Ionic" />
+  <img src="https://img.shields.io/badge/Swift-101827?style=flat-square&amp;logo=swift&amp;logoColor=c084fc" alt="Swift" />
+  <img src="https://img.shields.io/badge/Node.js-101827?style=flat-square&amp;logo=nodedotjs&amp;logoColor=86efac" alt="Node.js" />
+</p>
+
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | React · Angular · JavaScript · TypeScript · HTML · CSS · Ant Design · Less |
+| **Mobile** | React Native · Ionic · Swift |
+| **Backend & data** | Node.js · Egg.js · MongoDB · PHP · Python |
+| **Workflow** | Git · GitHub Actions · Docker · VS Code · PyCharm |
+
+---
+
+<p align="center">
+  <b>Have an idea worth building?</b><br />
+  Let's turn it into a product.<br /><br />
+  <a href="mailto:cauli.nicolo2003@gmail.com">Get in touch</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.everyapp.shop/">Work with EveryApp</a>
+  &nbsp;·&nbsp;
+  <a href="https://imtzson.github.io/">Explore my portfolio</a>
+</p>
