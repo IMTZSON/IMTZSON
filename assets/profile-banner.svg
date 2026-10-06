@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Nicolò Cauli — IMTZ</title>
+  <desc id="desc">Founder of EveryApp. Full stack developer. From idea to App Store.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#818cf8" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="#090e1c"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1080" cy="170" r="205" fill="none" stroke="#818cf8" stroke-opacity=".14"/>
+  <circle cx="1080" cy="170" r="150" fill="none" stroke="#38bdf8" stroke-opacity=".18"/>
+  <circle cx="1080" cy="170" r="95" fill="none" stroke="#c084fc" stroke-opacity=".24"/>
+  <rect x="64" y="58" width="40" height="4" rx="2" fill="url(#accent)"/>
+  <text x="64" y="99" fill="#a5b4fc" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="5">IMTZ / BUILDING DIGITAL PRODUCTS</text>
+  <text x="60" y="179" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Nicolò Cauli</text>
+  <text x="64" y="223" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="22">Founder @ EveryApp · Senior Full Stack Developer</text>
+  <text x="64" y="282" fill="#7dd3fc" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1">FROM IDEA TO APP STORE.</text>
+  <text x="970" y="193" fill="url(#accent)" font-family="monospace" font-size="72" font-weight="700">&lt;/&gt;</text>
+</svg>
